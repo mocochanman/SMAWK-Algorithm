@@ -13,3 +13,7 @@
 ### 出力：Yes or No
 
 ### 四角不等式の不等号を逆にすることで、凸Monge propertyの判定も行うことが可能です。
+
+### Please refer to the following site for Monge property.
+
+### [行列のMonge性（全単調性）について](https://qiita.com/mocochanman/items/cf86c13bd64f3a4849cb)
