@@ -4,7 +4,7 @@
 ### 凹Monge propertyを持つ行列 $A$ に対して、 _SMAWK Algorithm_ を用いて高速な行最小値探索を行います。
 
 ### 入力： _numpy.array(Matrix A)_ 
-### 出力：各行 $i$ における最小値の位置 $(i, j)$
+### 出力：各行 _i_ における最小値の位置 _(i, j)_
 
 ## check_monge.py
 ### 行列 _A_ が凹Monge propertyを持つかどうかを判定します。
